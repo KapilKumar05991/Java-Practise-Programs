@@ -1,0 +1,43 @@
+					Set-1
+1. WAP to check Prime Number
+2. WAP to print all Prime till N (1 to n)
+3. WAP to print all fibonacci number till N
+4. WAP to Count digits in a number
+5. WAP to print digits of a number seprated by space
+6. WAP to find reverse a number
+7. WAP to find inverse of a number
+8. WAP to rotate right a number k times
+9. WAP to print GCD and LCM of two given number
+10. WAP to print prime factorization of a number
+11. WAP to check a,b,c are pythagorean Triplets
+12. WAP to convert Decimal to binary,Octal and vice versa
+
+
+
+					Set-2
+1. WAP to find area of triangle whose sides are given as a,b,c
+2. WAP to find roots of a Quadratic equation
+3. WAP to find volume and total surface area of a cuboid
+4. WAP to store two numbers in one variable (Hint: bit masking and merging)
+5. WAP to swap to numbers without using third variable
+6. WAP to find a number is binary or not
+7. WAP to find a number is Hexadecimal or not
+8. WAP to check given string in Date Format (DD/MM/YYYY)
+9. WAP to check Leap Year
+10. WAP to convert a number in words (123 --> One Two Three)
+11. WAP to convert a number in words (120 --> One Hundred Twenty)
+12. WAP to find factorial of a number
+13. WAP to check whether a number is Armstrong number or not
+14. WAP to check whether a number is palindrome or not
+15. WAP to print fibonacci series till n
+16 WAP to print pattern
+	      *		*		    *			* * * *
+	    * *		* *		  * * *			*     *
+	  * * *		* * *		* * * * *		*     *
+	* * * *		* * * *	      * * * * * * *		* * * *
+
+17. WAP to rotate a array to left k times
+18. WAP to perform matrix Addition and Multiplication
+19. WAP to calculate age of a person (DOB)(dd,mm,yyy)
+20. WAP to solve linear eq in two variable
+21. WAP to check a String is anagram or not
