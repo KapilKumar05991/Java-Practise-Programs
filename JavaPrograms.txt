@@ -37,7 +37,8 @@
 	* * * *		* * * *	      * * * * * * *		* * * *
 
 17. WAP to rotate a array to left k times
-18. WAP to perform matrix Addition and Multiplication
-19. WAP to calculate age of a person (DOB)(dd,mm,yyy)
-20. WAP to solve linear eq in two variable
-21. WAP to check a String is anagram or not
+18. WAP to find second largest and second smallest in a array
+19. WAP to perform matrix Addition and Multiplication
+20. WAP to calculate age of a person (DOB)(dd,mm,yyy)
+21. WAP to solve linear eq in two variable
+22. WAP to check a String is anagram or not
